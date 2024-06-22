@@ -42,4 +42,4 @@ decoration {
     }
 }
 
-layerrule = unset,waybar 
+layerrule = blur,waybar 
